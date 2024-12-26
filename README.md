@@ -19,9 +19,13 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
+  <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://buffer.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.UowLUohS5Ln67Glyd9bdNwAAAA?rs=1&pid=ImgDetMain" alt="buffer" width="80" height="60"/> </a>
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2022/07/notion-logo_brandlogos.net_uiish.png" alt="notion" width="40" height="50"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismayeel2023&show_icons=true&locale=en&layout=compact" alt="ismayeel2023" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismayeel2023&show_icons=true&locale=en" alt="ismayeel2023" /></p>
-
